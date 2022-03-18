@@ -1,2 +1,6 @@
+<<<<<<< ours
 Thí is a week1 branch files of week1 only
 
+=======
+Thí is a week1 branch files of main kjfdjfsbhj,sbjsbfj,gdjasdba,jdbskajdb
+>>>>>>> theirs
